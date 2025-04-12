@@ -1,0 +1,25 @@
+path: /content/drive/MyDrive/dataset_hoa
+train: images
+val: images
+test: images
+names:
+  0: dog
+  1: person
+  2: cat
+  3: tv
+  4: car
+  5: meatballs
+  6: marinara sauce
+  7: tomato soup
+  8: chicken noodle soup
+  9: french onion soup
+  10: chicken breast
+  11: ribs
+  12: pulled pork
+  13: hamburger
+  14: cavity
+  15: hoa_hai_duong
+  16: hoa_hong_do
+  17: hoa_hong_phan
+  18: hoa_huong_duong
+  19: hoa_thuoc_duoc
